@@ -18,7 +18,7 @@
 
 ### 🗂 Тестовые артефакты:
 * [Теория тестирования](https://github.com/Dalskaya/theory.git)  
-* [Техники тест-дизайна](hhttps://github.com/Dalskaya/design.git)  
+* [Техники тест-дизайна](https://github.com/Dalskaya/design.git)
 * [Тестовая документация](https://github.com/Dalskaya/docs.git)
 * [Тестирование веб-приложений](https://github.com/Dalskaya/web.git)
 * [Тестирование API](https://github.com/Dalskaya/api.git)
